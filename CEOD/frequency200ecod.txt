@@ -1,0 +1,84 @@
+model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.5000,window size:0
+ Accuracy : 0.3419, Precision : 0.0464, Recall : 0.8947, F-score : 0.0882, fBata-score : 0.2819, specificity : 0.3215, Sensitivity:0.8947
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.5000 , window size:100
+Accuracy : 0.3219, Precision : 0.0499, Recall : 1.0000, F-score : 0.0950, fBata-score : 0.2766, specificity : 0.2968, Sensitivity:1.0000
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.5000 , window size:200
+Accuracy : 0.3121, Precision : 0.0492, Recall : 1.0000, F-score : 0.0938, fBata-score : 0.2700, specificity : 0.2868, Sensitivity:1.0000
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.5000 , window size:400
+Accuracy : 0.2922, Precision : 0.0479, Recall : 1.0000, F-score : 0.0914, fBata-score : 0.2564, specificity : 0.2661, Sensitivity:1.0000
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.5000 , window size:600
+Accuracy : 0.2791, Precision : 0.0471, Recall : 1.0000, F-score : 0.0899, fBata-score : 0.2475, specificity : 0.2525, Sensitivity:1.0000
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.5000 , window size:800
+Accuracy : 0.2720, Precision : 0.0467, Recall : 1.0000, F-score : 0.0892, fBata-score : 0.2426, specificity : 0.2451, Sensitivity:1.0000
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.5000 , window size:1000
+Accuracy : 0.2700, Precision : 0.0465, Recall : 1.0000, F-score : 0.0888, fBata-score : 0.2412, specificity : 0.2431, Sensitivity:1.0000
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.1000,window size:0
+ Accuracy : 0.7711, Precision : 0.0634, Recall : 0.3946, F-score : 0.1093, fBata-score : 0.5047, specificity : 0.7850, Sensitivity:0.3946
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.1000 , window size:100
+Accuracy : 0.8197, Precision : 0.1648, Recall : 1.0000, F-score : 0.2829, fBata-score : 0.6706, specificity : 0.8130, Sensitivity:1.0000
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.1000 , window size:200
+Accuracy : 0.8278, Precision : 0.1462, Recall : 0.7933, F-score : 0.2469, fBata-score : 0.6389, specificity : 0.8290, Sensitivity:0.7933
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.1000 , window size:400
+Accuracy : 0.8575, Precision : 0.1732, Recall : 0.7958, F-score : 0.2845, fBata-score : 0.6731, specificity : 0.8598, Sensitivity:0.7958
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.1000 , window size:600
+Accuracy : 0.8767, Precision : 0.1858, Recall : 0.7275, F-score : 0.2960, fBata-score : 0.6806, specificity : 0.8823, Sensitivity:0.7275
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.1000 , window size:800
+Accuracy : 0.8932, Precision : 0.2107, Recall : 0.7275, F-score : 0.3268, fBata-score : 0.7020, specificity : 0.8993, Sensitivity:0.7275
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.1000 , window size:1000
+Accuracy : 0.9011, Precision : 0.2133, Recall : 0.6613, F-score : 0.3226, fBata-score : 0.6950, specificity : 0.9100, Sensitivity:0.6613
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0500,window size:0
+ Accuracy : 0.8529, Precision : 0.0671, Recall : 0.2431, F-score : 0.1052, fBata-score : 0.5261, specificity : 0.8754, Sensitivity:0.2431
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0500 , window size:100
+Accuracy : 0.8886, Precision : 0.1909, Recall : 0.6579, F-score : 0.2959, fBata-score : 0.6777, specificity : 0.8971, Sensitivity:0.6579
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0500 , window size:200
+Accuracy : 0.9017, Precision : 0.2138, Recall : 0.6579, F-score : 0.3227, fBata-score : 0.6948, specificity : 0.9107, Sensitivity:0.6579
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0500 , window size:400
+Accuracy : 0.9216, Precision : 0.2475, Recall : 0.5895, F-score : 0.3487, fBata-score : 0.7027, specificity : 0.9339, Sensitivity:0.5895
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0500 , window size:600
+Accuracy : 0.9307, Precision : 0.2556, Recall : 0.4941, F-score : 0.3369, fBata-score : 0.6849, specificity : 0.9469, Sensitivity:0.4941
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0500 , window size:800
+Accuracy : 0.9295, Precision : 0.1807, Recall : 0.2768, F-score : 0.2187, fBata-score : 0.6038, specificity : 0.9536, Sensitivity:0.2768
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0500 , window size:1000
+Accuracy : 0.9297, Precision : 0.1489, Recall : 0.2070, F-score : 0.1732, fBata-score : 0.5756, specificity : 0.9563, Sensitivity:0.2070
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0100,window size:0
+ Accuracy : 0.9393, Precision : 0.1225, Recall : 0.1144, F-score : 0.1183, fBata-score : 0.5426, specificity : 0.9698, Sensitivity:0.1144
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0100 , window size:100
+Accuracy : 0.9637, Precision : 0.4884, Recall : 0.4224, F-score : 0.4530, fBata-score : 0.7084, specificity : 0.9837, Sensitivity:0.4224
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0100 , window size:200
+Accuracy : 0.9634, Precision : 0.4747, Recall : 0.2783, F-score : 0.3509, fBata-score : 0.6445, specificity : 0.9886, Sensitivity:0.2783
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0100 , window size:400
+Accuracy : 0.9687, Precision : 0.7005, Recall : 0.2121, F-score : 0.3257, fBata-score : 0.6190, specificity : 0.9967, Sensitivity:0.2121
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0100 , window size:600
+Accuracy : 0.9667, Precision : 0.9158, Recall : 0.0705, F-score : 0.1309, fBata-score : 0.5397, specificity : 0.9998, Sensitivity:0.0705
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0100 , window size:800
+Accuracy : 0.9669, Precision : 1.0000, Recall : 0.0705, F-score : 0.1317, fBata-score : 0.5399, specificity : 1.0000, Sensitivity:0.0705
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0100 , window size:1000
+Accuracy : 0.9663, Precision : 0.7933, Recall : 0.0705, F-score : 0.1295, fBata-score : 0.5394, specificity : 0.9993, Sensitivity:0.0705
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0050,window size:0
+ Accuracy : 0.9525, Precision : 0.1841, Recall : 0.0974, F-score : 0.1274, fBata-score : 0.5441, specificity : 0.9841, Sensitivity:0.0974
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0050 , window size:100
+Accuracy : 0.9676, Precision : 0.5953, Recall : 0.2783, F-score : 0.3793, fBata-score : 0.6503, specificity : 0.9930, Sensitivity:0.2783
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0050 , window size:200
+Accuracy : 0.9708, Precision : 0.7373, Recall : 0.2783, F-score : 0.4041, fBata-score : 0.6548, specificity : 0.9963, Sensitivity:0.2783
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0050 , window size:400
+Accuracy : 0.9664, Precision : 0.8265, Recall : 0.0705, F-score : 0.1299, fBata-score : 0.5395, specificity : 0.9995, Sensitivity:0.0705
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0050 , window size:600
+Accuracy : 0.9669, Precision : 1.0000, Recall : 0.0705, F-score : 0.1317, fBata-score : 0.5399, specificity : 1.0000, Sensitivity:0.0705
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0050 , window size:800
+Accuracy : 0.9669, Precision : 1.0000, Recall : 0.0705, F-score : 0.1317, fBata-score : 0.5399, specificity : 1.0000, Sensitivity:0.0705
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0050 , window size:1000
+Accuracy : 0.9669, Precision : 1.0000, Recall : 0.0705, F-score : 0.1317, fBata-score : 0.5399, specificity : 1.0000, Sensitivity:0.0705
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0010,window size:0
+ Accuracy : 0.9634, Precision : 0.4008, Recall : 0.0574, F-score : 0.1005, fBata-score : 0.5299, specificity : 0.9968, Sensitivity:0.0574
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0010 , window size:100
+Accuracy : 0.9689, Precision : 0.9034, Recall : 0.1423, F-score : 0.2459, fBata-score : 0.5822, specificity : 0.9994, Sensitivity:0.1423
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0010 , window size:200
+Accuracy : 0.9691, Precision : 0.9350, Recall : 0.1423, F-score : 0.2470, fBata-score : 0.5824, specificity : 0.9996, Sensitivity:0.1423
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0010 , window size:400
+Accuracy : 0.9669, Precision : 1.0000, Recall : 0.0705, F-score : 0.1317, fBata-score : 0.5399, specificity : 1.0000, Sensitivity:0.0705
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0010 , window size:600
+Accuracy : 0.9669, Precision : 1.0000, Recall : 0.0705, F-score : 0.1317, fBata-score : 0.5399, specificity : 1.0000, Sensitivity:0.0705
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0010 , window size:800
+Accuracy : 0.9669, Precision : 1.0000, Recall : 0.0705, F-score : 0.1317, fBata-score : 0.5399, specificity : 1.0000, Sensitivity:0.0705
+ model:ECOD ,dataFrequency:200 ,OutlierFrequency: 0.0010 , window size:1000
+Accuracy : 0.9644, Precision : 0.0000, Recall : 0.0000, F-score : 0.0000, fBata-score : 0.4963, specificity : 1.0000, Sensitivity:0.0000
